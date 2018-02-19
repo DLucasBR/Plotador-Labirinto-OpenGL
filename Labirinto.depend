@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1519066200 source:c:\users\daluc\desktop\nova pasta\nova pasta\labirinto\labirinto.c
+	"desenho.h"
+
+1518990638 c:\users\daluc\desktop\nova pasta\nova pasta\labirinto\mapa.h
+	<stdio.h>
+	<stdlib.h>
+
+1519044696 source:c:\users\daluc\desktop\nova pasta\nova pasta\labirinto\mapa.c
+	"mapa.h"
+
+1519047321 c:\users\daluc\desktop\nova pasta\nova pasta\labirinto\desenho.h
+	"mapa.h"
+	<windows.h>
+	<gl/glut.h>
+
+1519065660 source:c:\users\daluc\desktop\nova pasta\nova pasta\labirinto\desenho.c
+	"desenho.h"
+
